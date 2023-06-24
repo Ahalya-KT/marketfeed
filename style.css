@@ -1,0 +1,13 @@
+/* #navbar{
+    background-color: black;
+   
+} */
+
+.nav-item .nav-link{
+    color:rgb(137, 137, 135);
+}
+.navbar form button{
+    color:yellow;
+    border-color:rgb(137, 137, 135); ;
+    
+}
