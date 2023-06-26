@@ -1,7 +1,8 @@
-/* #navbar{
+#navbar{
+    color:white;
     background-color: black;
    
-} */
+}
 
 .nav-item .nav-link{
     color:rgb(137, 137, 135);
@@ -11,6 +12,7 @@
     border-color:rgb(137, 137, 135); ;
     
 }
+ 
 *{
     color:white;
     background-color: black;
@@ -29,6 +31,7 @@
 .container a span{
     color:#F2BE22
 }
+
 .main-heading p{
     color: rgb(122, 122, 249);
     padding: 20px;
@@ -85,4 +88,128 @@
     display: flex;
     gap:30px;
     
+}
+.main{
+    display:flex;
+    justify-content: center;
+    gap:10%;
+    
+
+   
+}
+.headings{
+    border-left-color: #F2BE22;
+    
+}
+
+.featurehead{
+    text-align: center;
+    padding: 80px;
+}
+
+.featurehead p{
+    text-align: center;
+    color:rgb(137, 137, 135);
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    gap:20%;
+
+}
+.contenthead1 p{
+    color:rgb(137, 137, 135);
+}
+.contenthead2 p{
+    color:rgb(137, 137, 135);
+}
+.lastport{
+    padding: 40px;
+}
+
+.lastport p{
+    color:rgb(137, 137, 135);
+    margin-left: 320px;
+}
+
+.indro p{
+    color: blue;
+    /* margin-left: 50px; */
+    text-align: center;
+}
+
+.indro h2{
+    text-align: center;
+}
+
+.indro {
+    padding: 40px;
+}
+
+.dateDay{
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+    padding: 30px;
+    
+}
+
+.date p{
+    color:rgb(137, 137, 135); 
+}
+
+.subcribers{
+    display: flex;
+    justify-content: center;
+    gap: 35%;
+    padding: 40px;
+}
+
+.abouton{
+    display: flex;
+    justify-content: center;
+}
+
+.respone{
+    padding: 5px;
+}
+.respone p{
+    color:rgb(137, 137, 135);
+    width: 60%;
+}
+
+.talkto p{
+    color: rgb(137, 137, 135);
+}
+
+.talkto h3{
+    width:60%;
+}
+.stores{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+.downloads{
+    display: flex;
+    gap: 10%;
+}
+
+.texting p{
+    color: rgb(137, 137, 135);
+    width: 80%;
+}
+.contactus{
+    display: flex;
+    justify-content: center;
+    gap:10%
+
+}
+footer{
+    text-align: center;
+    padding: 40px;
+}
+footer p{
+    color:rgb(137, 137, 135);
 }
